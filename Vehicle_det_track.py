@@ -54,7 +54,7 @@ while cv2.waitKey(1) != 27:
                 detections.append([x,y,w,h,count])
                 count += 1
 
-    # Ignore the Below loop as it created for calculating the vehicle's Speed. Needed little modification.
+    # Ignore the Below loop as it created for calculating the vehicle's Speed. Needed a little modification. Will update this feature soon.
     # Commenting the below loop will also the code works.
     for id,pt in center_pts.items():
         if pt[1] < enter_area:
