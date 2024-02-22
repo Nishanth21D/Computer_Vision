@@ -30,7 +30,8 @@ while cv2.waitKey(1) != 27:
                                      flags=cv2.CASCADE_SCALE_IMAGE)
 
     for (x,y,w,h) in faces:
-        cv2.rectangle(frame,(x-40,y-40),(x+w+40, y+h+40), (255,255,0),2)
+        
+        cv2.rectangle(frame,(x-40,y-40),(x+w+40, y+h+40), (255,255,0),2)    # Adding BBOX
         face = frame[y:y+h, x:x+w]                                          # Extract ROI
         bg_blur = cv2.GaussianBlur(face,ksize=(99,99),sigmaX=40)            # Apply blur to ROI
         frame[y:y + h, x:x + w] = bg_blur                                   # Merging the blurred face to frame
@@ -39,7 +40,7 @@ while cv2.waitKey(1) != 27:
     fps = int(1 / (end - start))
     cv2.putText(frame, "FPS: " + str(fps), (20, 30), 2, 0.5, (0, 0, 0))
     cv2.putText(frame, "Device: " + str(device), (20,60), 2, 0.5, (255,0,0))
-    cv2.imshow("Blur", frame+img)
+    cv2.imshow("Blur", frame)
     cv2.imshow('Orig', img)
     # cv2.waitKey(0)
 
