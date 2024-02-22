@@ -1,3 +1,3 @@
 # Computer_Vision
-A repository with computer vision-related projects
+A repository with computer vision and ML-related projects
 
