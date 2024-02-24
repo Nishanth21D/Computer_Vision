@@ -3,7 +3,7 @@
 A repository with computer vision and ML-related projects
 
   | Projects |
-| ------------- |:-------------|
+  | ------------- |:-------------|
 > Py-Scripts -> Computer-Vision related project works
 >> Background Subtraction - Subtraction using MOG2 and KNN
 >
