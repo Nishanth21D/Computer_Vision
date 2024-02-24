@@ -3,7 +3,7 @@
 A repository with computer vision and ML-related projects
 
 > Py-Scripts -> Computer-Vision related project works
->>  Background Subtraction - Subtraction MOG2 and KNN
+>>  Background Subtraction - Subtraction MOG2 and KNN 
 >>  Face Blurring - Haar Cascade & Gaussian Blur 
 >>  Custom PoseEstimation - Detecting Human Pose with 33 landmarks 
 >>  Custom HandTracking - Detects and tracks hands with 21 landmarks, Counting the fingers 
