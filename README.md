@@ -17,5 +17,6 @@ A repository with computer vision and ML-related projects
 >
 >> Conveyor Belt - Tracking and Counting the Objects
 
+
 > ML Projects -> Machine Learning related project works
 >> Facial Attractiveness - Landmarks extraction Using OpenFace and predicted using Linear Regression, Random Forest
