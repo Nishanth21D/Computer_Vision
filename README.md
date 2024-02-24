@@ -2,7 +2,7 @@
 
 ## A repository with computer vision and ML-related projects
 
-### Computer-Vision related projects
+### Computer-Vision related projects | [code](https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts) |
 > Py-Scripts -> Computer-Vision related project works
 >> Background Subtraction - Subtraction using MOG2 and KNN
 >
@@ -19,5 +19,5 @@
 >> Conveyor Belt - Tracking and Counting the Objects
 
 ### Machine Learning related projects
-> ML Projects -> Machine Learning related project works | [code](https://github.com/Nishanth21D/Computer_Vision/tree/bf04f82ec0b4215819de583b4fac11f89ca468fc/ML%20Projects)|
+> ML Projects -> Machine Learning related project works | [code](https://github.com/Nishanth21D/Computer_Vision/tree/bf04f82ec0b4215819de583b4fac11f89ca468fc/ML%20Projects) |
 >> Facial Attractiveness - Landmarks extraction Using OpenFace and predicted using Linear Regression, Random Forest
