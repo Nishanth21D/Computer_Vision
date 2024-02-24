@@ -2,7 +2,7 @@
 
 ## A repository with computer vision and ML-related projects
 
-### Computer-Vision related project
+### Computer-Vision related projects
 > Py-Scripts -> Computer-Vision related project works
 >> Background Subtraction - Subtraction using MOG2 and KNN
 >
@@ -18,6 +18,6 @@
 >
 >> Conveyor Belt - Tracking and Counting the Objects
 
-### Machine Learning related project
+### Machine Learning related projects
 > ML Projects -> Machine Learning related project works
 >> Facial Attractiveness - Landmarks extraction Using OpenFace and predicted using Linear Regression, Random Forest
