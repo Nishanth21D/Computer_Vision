@@ -4,6 +4,8 @@
 
 #### Computer-Vision related projects | [Directory](https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts) |
 > Py-Scripts -> Computer-Vision related project works
+>> Custom Snapchat Filter
+> 
 >> Background Subtraction - Subtraction using MOG2 and KNN
 >
 >> Face Blurring - Haar Cascade & Gaussian Blur
