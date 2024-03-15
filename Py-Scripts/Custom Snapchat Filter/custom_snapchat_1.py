@@ -41,6 +41,10 @@ filter_config = {
     'joker':
         [{'path': "filters/joker.png",
           'anno_path': "filters/joker_annotation.csv",
+          'morph': True}],
+    'carnival':
+        [{'path': "filters/carnival.png",
+          'anno_path': "filters/carnival_annotation.csv",
           'morph': True}]
 }
 # os.listdir("Github Repos/Create-AR-filters-using-Mediapipe/filters/anonymous_annotations.csv")
@@ -109,7 +113,7 @@ def get_landmarks(frame):
     results = face_mesh.process(frame)  # Applying Facemesh
     if not results.multi_face_landmarks:
         print("Face Not Detected")
-        return 0
+        return 0,0,0
     if results.multi_face_landmarks:
         for lmark in results.multi_face_landmarks:
             xlist, ylist = [], []                       # For BBOX
@@ -130,7 +134,7 @@ def get_landmarks(frame):
             for i in selected_keypoints:
                 relevant_keypoints.append(face_keypoints[i])  # Extract the coordinates of selected keypoints
             return relevant_keypoints, xlist, ylist
-    return 0
+    return 0,0,0
 
 
 def load_filter(filter_name='anonymous'):
