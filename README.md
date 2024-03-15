@@ -4,7 +4,7 @@
 
 #### Computer-Vision related projects | [Directory](https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts) |
 > Py-Scripts -> Computer-Vision related project works
->> Custom Snapchat Filter - [https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts/Custom%20Snapchat%20Filter]
+>> Custom Snapchat Filter - [Link](https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts/Custom%20Snapchat%20Filter)
 > 
 >> Background Subtraction - Subtraction using MOG2 and KNN
 >
