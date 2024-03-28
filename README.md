@@ -23,4 +23,5 @@
 #### Machine Learning related projects | [Directory](https://github.com/Nishanth21D/Computer_Vision/tree/bf04f82ec0b4215819de583b4fac11f89ca468fc/ML%20Projects) |
 > ML Projects -> Machine Learning related project works 
 >> Facial Attractiveness - Landmarks extraction Using OpenFace and predicted using Linear Regression, Random Forest
->> Sentiment Analysis - Psychological insights between the two users using OpenAI, Flask, Easygui
+>
+>> Sentiment Analysis - Psychological insights between the two users using OpenAI, Flask, Easygui |[Output](https://github.com/Nishanth21D/Computer_Vision/blob/main/ML%20Projects/Sentiment%20Analysis%20_%20OpenAI%20GPT/Output.mp4)|
