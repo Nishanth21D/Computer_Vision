@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sentiment Analysis</title></head>
+<body style="background-color:powderblue;">
+    <h2>Upload Attachment</h2>
+    <h4>Upload your Text File</h4>
+    <form method="post" enctype="multipart/form-data">
+<!--        <label for="user_input">Enter your Prompt:</label><br>-->
+<!--        <input type="text" id="user_input" name="user_input"><br><br>-->
+        <label for="attachment">Upload attachment:</label><br>
+        <input type="file" id="attachment" name="attachment"><br><br>
+        <button type="submit">Upload</button>
+    </form>
+<!--    {% if user_input %}-->
+<!--    <p>You entered: {{ user_input }}</p>-->
+<!--    {% endif %}-->
+    {% if uploaded_file %}
+    <p>Uploaded file: {{ uploaded_file }}</p>
+    {% endif %}
+</body>
+</html>
