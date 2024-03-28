@@ -1,6 +1,6 @@
 import openai
 from openai import OpenAI
-api_key = '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'
+api_key = 'OPENAI API KEY'
 client = OpenAI(api_key=api_key)
 
 def analyze_sentiment(text):
