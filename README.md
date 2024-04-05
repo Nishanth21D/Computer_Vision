@@ -4,7 +4,7 @@
 
 #### Computer-Vision related projects | [Directory](https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts) |
 > Py-Scripts -> Computer-Vision related project works
->> Fire Detection - [Link](https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts/Fire%20Detection)
+>> Fire Detection _ SoS Notifcations - [Link](https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts/Fire%20Detection)
 >  
 >> Custom Snapchat Filter - [Link](https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts/Custom%20Snapchat%20Filter)
 > 
