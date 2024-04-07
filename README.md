@@ -1,4 +1,4 @@
-# Computer_Vision Repository
+<h1 align="center">Computer_Vision Repository</h1>
 
 ## A repository with computer vision and ML-related projects
 
