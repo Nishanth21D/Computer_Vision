@@ -1,5 +1,11 @@
 <h1 align="center">Computer_Vision Repository</h1>
 
+<p align="center">
+    </br>
+    <img width="100" src=".//Py-Scripts/Fire%20Detection/logo.png" alt="Nish LonkedIn logo">
+    </br>
+</p>
+
 ## A repository with computer vision and ML-related projects
 
 #### Computer-Vision related projects | [Directory](https://github.com/Nishanth21D/Computer_Vision/tree/main/Py-Scripts) |
