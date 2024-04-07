@@ -2,7 +2,7 @@
 
 <p align="center">
     </br>
-    <img width="100" src=".//Py-Scripts/Fire%20Detection/logo.png" alt="Nish LonkedIn logo">
+    <img width="actual" src=".//Py-Scripts/Fire%20Detection/logo.png" alt="Nish LonkedIn logo">
     </br>
 </p>
 
